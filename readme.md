@@ -129,7 +129,7 @@ Next, add another parameter which will define the number of times to display the
 
    ![get the params](./media/params_name_repeat.png)
 
-4. Display the repeated Welcome message
+4. Display the repeated Welcome message, see: (https://svelte.dev/docs/svelte/each)
 
    ![Display welcome repeat times](./media/each_iterator.png)
 
