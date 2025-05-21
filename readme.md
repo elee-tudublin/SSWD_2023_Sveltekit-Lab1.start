@@ -1,6 +1,6 @@
 # SvelteKit Part 2
 
-Enda Lee 2023
+Enda Lee 2025
 
 ### Quick Start
 
