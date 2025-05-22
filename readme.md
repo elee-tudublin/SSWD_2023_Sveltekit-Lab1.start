@@ -1,4 +1,4 @@
-# SvelteKit Part 2
+# SvelteKit Part 1
 
 Enda Lee 2025
 
