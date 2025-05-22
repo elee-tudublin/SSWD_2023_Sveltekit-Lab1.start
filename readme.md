@@ -2,6 +2,8 @@
 
 Enda Lee 2025
 
+###Important: complete the [**introduction lab**](./media/sswd_lab_sveltekit_intro.pdf) first.
+
 ### Quick Start
 
 1. Download the code from this repository (FORK or download as zip - DO NOT CLONE)
