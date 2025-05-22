@@ -2,7 +2,7 @@
 
 Enda Lee 2025
 
-###Important: complete the [**introduction lab**](./media/sswd_lab_sveltekit_intro.pdf) first.
+### Important: complete the [**introduction lab**](./media/sswd_lab_sveltekit_intro.pdf) first.
 
 ### Quick Start
 
